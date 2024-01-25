@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SahejBahl
 - 👀 I’m interested in ML 
-- 🌱 I’m currently learning c++ 
-- 📫 s7bahl@uwaterloo.ca , or @sahej.b__ on instagram
+- 🌱 I’m devloping a full stack fitness trainer
+- 📫 s7bahl@uwaterloo.ca
 
 <!---
 SahejBahl/SahejBahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
